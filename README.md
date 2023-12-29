@@ -34,4 +34,5 @@ python BeaconScanner.py
 
 # Running the tests
 Once the app is running you should see any iBeacon in the vicinity - The RSSI will update if an iBeacon moves.
+A pop up window will shouw up showing a live coordinated map with your BLE Beacons around your Raspberry Pi device.
 
